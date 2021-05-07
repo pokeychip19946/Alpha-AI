@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # In[2]:
 
 
-net  = cv.dnn.readNetFromTensorflow("graph.pb")
+net  = cv.dnn.readNetFromTensorflow("graph.pb") # import your own models and generate your own .pbtxt files
 
 
 # In[3]:
