@@ -9,6 +9,10 @@ UNIVERSITY - UNIVERSITY OF PETROLEUM AND ENERGY STUDIES
 
 EMAIL ID - 500067103@stu.upes.ac.in
 
+# NON TECHNICAL QUESTIONS
+
+PLEASE ACCESS THE PDF FILE TO SEE THE ANSWERS OF NON TECHNICAL QUESTIONS FROM THE ABOVE FOLDER NTQ
+
 # TASK 3 HUMAN ACTION RECOGNITION
 
 I have created a python code in which it will going identify human body using skeleton structure( as green line strcuture) and recognize human body part motion simultanously
