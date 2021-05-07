@@ -30,12 +30,16 @@ STEP 3 - Run the code normally in jupyter not in google collab as opencv was not
 
 # TASK 3 HUMAN ACTION RECOGNITION
 
-I have created a python code in which it will going identify human body on live webcam video using skeleton structure( as green line strcuture) and recognize human body part motion simultanously
+1. I have created a python code in which it will going identify human body on live webcam video using skeleton structure( as green line strcuture) and recognize human body part motion simultanously. The code is in human activity recognition.py
+
+2. I have created a python code in which it will going identify human activity using a sample video. the code is in human activity recognition2.py
 
 *STEPS TO RUN THE CODE*
 
 STEP 1- Access TASK 3 folder to run the code 
 
-STEP 2- Load graph.pd and image.jpg
+STEP 2- Load graph.pd and image.jpg for human activity recognition.py 
 
-STEP 3 - Run the code normally in jupyter not in google collab as opencv was not supporting in the collab 
+STEP 3- Load kinetic .txt and example1.mp4 for human activity recognition2.py
+
+STEP 4 - Run the code normally in jupyter not in google collab as opencv was not supporting in the collab 
