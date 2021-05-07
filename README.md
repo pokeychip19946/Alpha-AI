@@ -15,7 +15,7 @@ PLEASE ACCESS THE PDF FILE TO SEE THE ANSWERS OF NON TECHNICAL QUESTIONS FROM TH
 
 # TASK 3 HUMAN ACTION RECOGNITION
 
-I have created a python code in which it will going identify human body using skeleton structure( as green line strcuture) and recognize human body part motion simultanously
+I have created a python code in which it will going identify human body on live webcam video using skeleton structure( as green line strcuture) and recognize human body part motion simultanously
 
 *STEPS TO RUN THE CODE*
 
