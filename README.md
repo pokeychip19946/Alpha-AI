@@ -15,7 +15,7 @@ I have created a python code in which it will going identify human body using sk
 
 *STEPS TO RUN THE CODE*
 
-STEP 1- Access Task 3 folder to run the code 
+STEP 1- Access TASK 3 folder to run the code 
 
 STEP 2- Load graph.pd and image.jpg
 
