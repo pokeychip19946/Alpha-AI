@@ -15,6 +15,8 @@ I have created a python code in which it will going identify human body using sk
 
 #  STEPS TO RUN THE CODE 
 
-STEP 1- Load graph.pd and image.jpg
+STEP 1- Access Task 3 folder to run the code 
 
-STEP 2 - Run the code normally in jupyter not in google collab as opencv was not supporting in the collab 
+STEP 2- Load graph.pd and image.jpg
+
+STEP 3 - Run the code normally in jupyter not in google collab as opencv was not supporting in the collab 
